@@ -1,6 +1,5 @@
 from asyncio.windows_events import INFINITE
 
-
 n = 1
 sum = 0
 
